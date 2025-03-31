@@ -1,4 +1,4 @@
-# 🧲 2D Ising Model Simulation (MATLAB GUI)
+# 2D Ising Model Simulation (MATLAB GUI)
 
 This project implements a 2D Ising Model using the **Metropolis Monte Carlo algorithm** to demonstrate phase transitions in ferromagnetic materials.
 
@@ -9,7 +9,7 @@ Built using MATLAB App Designer, the simulation allows interactive exploration o
 
 ---
 
-## 🎮 Features
+## Features
 
 - GUI-based controls: Temperature slider, field adjustment, system size input
 - Visualization of spin configurations
@@ -18,7 +18,7 @@ Built using MATLAB App Designer, the simulation allows interactive exploration o
 
 ---
 
-## 🧠 Physics Overview
+## Physics Overview
 
 The 2D Ising Model simulates a grid of magnetic spins (`+1`, `-1`) that interact with their neighbors. It undergoes a phase transition at a critical temperature **Tc**, transitioning from a disordered to an ordered state.
 
